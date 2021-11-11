@@ -1,15 +1,20 @@
 ### Hi there, I'm Arjun 👋 
 
-<img src="https://komarev.com/ghpvc/?username=aj-in&label=Profile%20views&color=129e00&style=plastic" alt="aj-in" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<br>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/1Heinrich11?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/1Heinrich11)
+<img src="https://komarev.com/ghpvc/?username=aj-in&label=Profile%20views&color=129e00&style=plastic" alt="aj-in" /> 
+
+<br>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/1Heinrich11?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/1Heinrich11) 
+<br>  
 
 ## I'm a Coder and a CyberSec Enthusiast !!
 
 - 🔭 I’m looking to collaborate with other devs , OffSec researchers
 - 🌱 Trying to learn more about AI, WebDev, Blockchain
 - 🥅 2021 Goals: Learn new technologies
+
 
 ### Connect with me:
 
@@ -36,7 +41,7 @@
 <br />
 
 ---
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aj-in&show_icons=true&locale=en&layout=compact" alt="aj-in" /></p>
 
 
