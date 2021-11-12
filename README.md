@@ -6,7 +6,7 @@
 
 <br>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/1Heinrich11?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/1Heinrich11) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/aj_in__?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/aj_in__) 
 <br>  
 
 ## I'm a Coder and a CyberSec Enthusiast !!
@@ -15,6 +15,7 @@
 - 🌱 Trying to learn more about AI, WebDev, Blockchain
 - 🥅 2021 Goals: Learn new technologies
 
+Portfolio : https://aj-in.github.io/
 
 ### Connect with me:
 
@@ -45,6 +46,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aj-in&show_icons=true&locale=en&layout=compact" alt="aj-in" /></p>
 
 
-[twitter]: https://twitter.com/1Heinrich11
+[twitter]: https://twitter.com/aj_in__
 [instagram]: https://instagram.com/definitely_arjun
 [linkedin]: https://www.linkedin.com/in/arjun-kakade-327a54187/
