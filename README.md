@@ -9,11 +9,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/aj_in__?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/aj_in__) 
 <br>  
 
-## I'm a Coder and a CyberSec Enthusiast !!
+## I'm a Software Engineer and an Automation Enthusiast !!
 
 - 🔭 I’m looking to collaborate with other devs , OffSec researchers
-- 🌱 Trying to learn more about AI, WebDev, Blockchain
-- 🥅 2021 Goals: Learn new technologies
+- 🌱 Trying to learn more about AI, WebDev
+- 🥅 2022 Goals: Learn new technologies
 
 Portfolio : https://aj-in.github.io/
 
@@ -27,7 +27,6 @@ Portfolio : https://aj-in.github.io/
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
