@@ -13,7 +13,7 @@
 
 - 🔭 I’m looking to collaborate with other devs , OffSec researchers
 - 🌱 Trying to learn more about AI, WebDev
-- 🥅 2022 Goals: Learn new technologies
+- 🥅 2023 Goals: Learn new technologies
 
 Portfolio : https://aj-in.github.io/
 
