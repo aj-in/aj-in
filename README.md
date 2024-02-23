@@ -9,11 +9,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/aj_in__?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/aj_in__) 
 <br>  
 
-## I'm a Software Engineer and an Automation Enthusiast !!
+## I'm a Data Enthusiast and a student @ University of Michigan
 
-- 🔭 I’m looking to collaborate with other devs , OffSec researchers
-- 🌱 Trying to learn more about AI, WebDev
-- 🥅 2023 Goals: Learn new technologies
+- 🔭 I’m looking to collaborate with other data scientists, 
+- 🌱 Trying to learn more about AI, Neural Networks
+- 🥅 2024 Goals: Learn new technologies
 
 Portfolio : https://aj-in.github.io/
 
@@ -21,7 +21,6 @@ Portfolio : https://aj-in.github.io/
 
 [<img align="left" alt=" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -46,5 +45,4 @@ Portfolio : https://aj-in.github.io/
 
 
 [twitter]: https://twitter.com/aj_in__
-[instagram]: https://instagram.com/definitely_arjun
 [linkedin]: https://www.linkedin.com/in/arjun-kakade-327a54187/
