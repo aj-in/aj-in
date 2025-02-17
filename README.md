@@ -13,7 +13,7 @@
 
 - 🔭 I’m looking to collaborate with other data scientists, 
 - 🌱 Trying to learn more about AI, Neural Networks
-- 🥅 2024 Goals: Learn new technologies
+- 🥅 2025 Goals: Learn new technologies and get better at French and German
 
 Portfolio : https://aj-in.github.io/
 
