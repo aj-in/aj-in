@@ -11,11 +11,12 @@
 
 ## I'm a Data Enthusiast and a student @ University of Michigan
 
-- 🔭 I’m looking to collaborate with other data scientists, 
-- 🌱 Trying to learn more about AI, Neural Networks
-- 🥅 2025 Goals: Learn new technologies and get better at French and German
+- 🔭 I’m looking for full-time opportunities in Data Analytics and Data Science.
+- 🌱 Trying to learn more about AI, Neural Networks.
+- 🥅 2025 Goals: Learn new technologies and get better at French and German.
 
-Portfolio : https://aj-in.github.io/
+Portfolio : https://arjunkakade.netlify.app/#about
+
 
 ### Connect with me:
 
