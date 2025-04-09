@@ -15,8 +15,7 @@
 - 🌱 Trying to learn more about AI, Neural Networks.
 - 🥅 2025 Goals: Learn new technologies and get better at French and German.
 
-Portfolio : https://arjunkakade.netlify.app/#about
-
+Portfolio : https://arjunkakade.netlify.app/
 
 ### Connect with me:
 
