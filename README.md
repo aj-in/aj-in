@@ -6,8 +6,6 @@
 
 <br>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/aj_in__?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/aj_in__) 
-<br>  
 
 ## I'm a Data Enthusiast and a student @ University of Michigan
 
@@ -15,14 +13,9 @@
 - 🌱 Trying to learn more about AI, Neural Networks.
 - 🥅 2025 Goals: Learn new technologies and get better at French and German.
 
-Portfolio : https://arjunkakade.netlify.app/
+Portfolio : https://kakadearjun91190.wixsite.com/port
 
-### Connect with me:
 
-[<img align="left" alt=" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 
