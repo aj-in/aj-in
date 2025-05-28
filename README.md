@@ -7,7 +7,7 @@
 <br>
 
 
-## I'm a Data Enthusiast and a student @ University of Michigan
+## A data professional with hands-on experience as a Data Analyst @ Nap York (NYC)
 
 - 🔭 I’m looking for full-time opportunities in Data Analytics and Data Science.
 - 🌱 Trying to learn more about AI, Neural Networks.
