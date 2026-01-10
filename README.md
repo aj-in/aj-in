@@ -11,7 +11,7 @@
 
 - 🔭 I’m looking for full-time opportunities in Data Analytics and Data Science.
 - 🌱 Trying to learn more about AI, Neural Networks.
-- 🥅 2025 Goals: Learn new technologies and get better at French and German.
+- 🥅 2026 Goals: Learn new technologies and get better at French and German.
 
 Portfolio : https://kakadearjun91190.wixsite.com/port
 
