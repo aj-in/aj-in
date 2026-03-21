@@ -7,14 +7,12 @@
 <br>
 
 
-## A data professional with hands-on experience as a Data Analyst @ Nap York (NYC)
+## Data Professional & Software Engineering Experience
 
-- 🔭 I’m looking for full-time opportunities in Data Analytics and Data Science.
-- 🌱 Trying to learn more about AI, Neural Networks.
-- 🥅 2026 Goals: Learn new technologies and get better at French and German.
-
-Portfolio : https://kakadearjun91190.wixsite.com/port
-
+- 🔭 Seeking full-time opportunities in Data Analytics and Data Science
+- 💡 Skilled in Python, SQL, and backend development for building data pipelines and APIs
+- 🌱 Currently learning AI, Machine Learning, and Neural Networks
+- 🥅 2026 Goals: Advance in AI technologies and improve French and German language skills
 
 
 ### Languages and Tools:
