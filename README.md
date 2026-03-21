@@ -9,9 +9,8 @@
 
 ## Data Professional & Software Engineering Experience
 
-- 🔭 Seeking full-time opportunities in Data Analytics and Data Science
 - 💡 Skilled in Python, SQL, and backend development for building data pipelines and APIs
-- 🌱 Currently learning AI, Machine Learning, and Neural Networks
+- 🌱 Currently perfecting AI, Machine Learning, and Python, SQL skills
 - 🥅 2026 Goals: Advance in AI technologies and improve French and German language skills
 
 
